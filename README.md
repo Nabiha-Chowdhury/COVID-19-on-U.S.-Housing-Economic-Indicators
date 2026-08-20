@@ -51,17 +51,6 @@ The project uses visualizations to examine:
 - Relationships between housing prices and economic indicators
 - Trends in COVID-19 cases and economic conditions
 
-## My Contributions
-
-This project was completed collaboratively with a partner.
-
-My primary contributions included:
-
-- [ADD YOUR CONTRIBUTION HERE]
-- [ADD YOUR CONTRIBUTION HERE]
-- [ADD YOUR CONTRIBUTION HERE]
-
-I also contributed to the interpretation of results and development of the final report.
 
 ## Tools & Technologies
 
